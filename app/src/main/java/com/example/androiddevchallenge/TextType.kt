@@ -16,6 +16,7 @@ val h2TextStyle = TextStyle(
     fontSize = 15.sp,
     fontWeight = FontWeight.Bold,
     letterSpacing = .15.sp
+
 )
 
 val subtitleTextStyle = TextStyle(
